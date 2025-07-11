@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="brahma-sansaar" name="com.example.MainSpec" tests="1" time="0.051" timestamp="2025-07-11T12:59:50">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.23+9-LTS"/>
+    <property
+    name="sun.boot.library.path" value="/home/brahma/.sdkman/candidates/java/11.0.23-zulu/lib"/>
+    <property name="jdk.vendor.version" value="Zulu11.72+19-CA"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property
+    name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/brahma/dsptestSc"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.23+9-LTS"/>
+    <property
+    name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="basedir" value="/home/brahma/dsptestSc"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value=" "/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property
+    name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property
+    name="java.specification.name" value="Java Platform API Specification"/>
+    <property
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="5.4.0-150-generic"/>
+    <property name="user.home" value="/home/brahma"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="brahma"/>
+    <property
+    name="java.class.path" value="/home/brahma/dsptestSc/target/test-classes:/home/brahma/dsptestSc/target/classes:/home/brahma/.m2/repository/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar:/home/brahma/.m2/repository/org/scalatest/scalatest_2.13/3.2.18/scalatest_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-core_2.13/3.2.18/scalatest-core_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-compatible/3.2.18/scalatest-compatible-3.2.18.jar:/home/brahma/.m2/repository/org/scalactic/scalactic_2.13/3.2.18/scalactic_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scala-lang/modules/scala-xml_2.13/2.1.0/scala-xml_2.13-2.1.0.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-featurespec_2.13/3.2.18/scalatest-featurespec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-flatspec_2.13/3.2.18/scalatest-flatspec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-freespec_2.13/3.2.18/scalatest-freespec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-funsuite_2.13/3.2.18/scalatest-funsuite_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-funspec_2.13/3.2.18/scalatest-funspec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-propspec_2.13/3.2.18/scalatest-propspec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-refspec_2.13/3.2.18/scalatest-refspec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-wordspec_2.13/3.2.18/scalatest-wordspec_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-diagrams_2.13/3.2.18/scalatest-diagrams_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-matchers-core_2.13/3.2.18/scalatest-matchers-core_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-shouldmatchers_2.13/3.2.18/scalatest-shouldmatchers_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scalatest/scalatest-mustmatchers_2.13/3.2.18/scalatest-mustmatchers_2.13-3.2.18.jar:/home/brahma/.m2/repository/org/scala-lang/scala-reflect/2.13.10/scala-reflect-2.13.10.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property
+    name="sun.java.command" value="org.scalatest.tools.Runner -R /home/brahma/dsptestSc/target/classes /home/brahma/dsptestSc/target/test-classes -o -u /home/brahma/dsptestSc/target/surefire-reports/."/>
+    <property
+    name="java.home" value="/home/brahma/.sdkman/candidates/java/11.0.23-zulu"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.23"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Zulu11.72+19-CA"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase 
+  name="Main should print the expected greeting" classname="com.example.MainSpec" time="0.035">
+</testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
